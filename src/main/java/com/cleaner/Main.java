@@ -1,2 +1,4 @@
-package com.cleaner;public class Main {
+package com.cleaner;
+
+public class Main {
 }
